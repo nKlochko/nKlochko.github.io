@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f38e92c.css",
+    "main.js": "/static/js/main.c6cf74c8.js",
+    "static/media/about_img.png": "/static/media/about_img.3d4477844eba4114679e.png",
+    "static/media/SuccessfulWork_info_decore.svg": "/static/media/SuccessfulWork_info_decore.e69c0a68d2dbb0a5801972165ba31f53.svg",
+    "static/media/modern_img.png": "/static/media/modern_img.1d17f2a7774055c36251.png",
+    "static/media/SuccessfulWork_img.png": "/static/media/SuccessfulWork_img.61bfc8a3baca27a012d7.png",
+    "static/media/LatestNews_img2.png": "/static/media/LatestNews_img2.ac3f78b664c06c527cea.png",
+    "static/media/LatestNews_img.png": "/static/media/LatestNews_img.fe5748f4891abc8b0d12.png",
+    "static/media/testimonials_img2.png": "/static/media/testimonials_img2.6b8a3ce4f485fead1950.png",
+    "static/media/testimonials_img1.png": "/static/media/testimonials_img1.6b3928f155dfecb9cd15.png",
+    "static/media/decore.svg": "/static/media/decore.f53e37058885d84bd71e040800325107.svg",
+    "static/media/icon_instagram.svg": "/static/media/icon_instagram.a65e1a0357685e7ed4cad3b8a4301e30.svg",
+    "static/media/icon_twitter.svg": "/static/media/icon_twitter.ed89055d545f807c7de3037cac746387.svg",
+    "static/media/header_logo.svg": "/static/media/header_logo.71ddb5fe4f6f129e45b50861ce2b48d9.svg",
+    "static/media/icon_in.svg": "/static/media/icon_in.15f6b35784aaa81c0b7e7d4633e06535.svg",
+    "static/media/icon_facebook.svg": "/static/media/icon_facebook.b78c465957af11513cd50dda95f41068.svg",
+    "static/media/testimonials_decore.svg": "/static/media/testimonials_decore.de285c02d890b13495d74d100613bb34.svg",
+    "index.html": "/index.html",
+    "static/media/about_decore.svg": "/static/media/about_decore.80b793b1c6362512a6a465164cb79e61.svg",
+    "static/media/modern_decore.svg": "/static/media/modern_decore.1f2656f8992819ebdfb8328ea3726a17.svg",
+    "static/media/LatestNews_decore.svg": "/static/media/LatestNews_decore.bb6cfa094223f8346eed13f512c026d0.svg",
+    "static/media/SuccessfulWork_decore.svg": "/static/media/SuccessfulWork_decore.c6a7fec42917143724070114cb2f3a48.svg",
+    "static/media/completed_work_icon1.svg": "/static/media/completed_work_icon1.4ff1f24acd89862b59b57332b375aad9.svg",
+    "static/media/completed_work_icon2.svg": "/static/media/completed_work_icon2.a68f20729f28bcc633324c883a983d3f.svg",
+    "static/media/testimonials_arrow_icon.svg": "/static/media/testimonials_arrow_icon.ba2726b4feaab9e7da42f152a20a1f8d.svg",
+    "main.0f38e92c.css.map": "/static/css/main.0f38e92c.css.map",
+    "main.c6cf74c8.js.map": "/static/js/main.c6cf74c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f38e92c.css",
+    "static/js/main.c6cf74c8.js"
+  ]
+}
